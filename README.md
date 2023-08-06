@@ -1,5 +1,5 @@
 # TSS
-The source code of "Two-Step Strategy for Domain Adaptation Retrieval".
+The source code of "Two-Step Strategy for Domain Adaptation Retrieval".  
 If you use our code, please cite our paper.  
 Contact us for any questions: yhchengdut@126.com   
 
